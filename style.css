@@ -30,3 +30,6 @@ nav{
     -moz-box-shadow: 3px 14px 23px -2px rgba(0,0,0,0.75);
     border-radius: 10px;
 }
+main{
+    background-color: black;
+}
